@@ -13,6 +13,10 @@ On the in-game map, drivable roads render as grey (`#808080`). This tool capture
 
 The loop runs continuously, so panning/zooming the in-game map updates live.
 
+## Example
+
+<img width="2690" height="1283" alt="image" src="https://github.com/user-attachments/assets/4981c3cb-2cc6-4fe6-9a38-338b1f866615" />
+
 ## Requirements
 
 - Python 3.8+
