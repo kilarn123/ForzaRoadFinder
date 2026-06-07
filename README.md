@@ -4,8 +4,6 @@ A tiny real-time screen tool that helps you find the **last un-driven roads** in
 
 On the in-game map, drivable roads render as grey (`#808080`). This tool captures your game monitor, recolors those grey road pixels to **bright pink (`#FF00FF`)**, mutes everything else, and shows the result in a separate window — ideal on a second monitor while you play on the main screen.
 
-![concept](https://img.shields.io/badge/grey%20%23808080-%E2%86%92-808080) → 🩷 bright pink
-
 ## How it works
 
 1. Grab a frame from the game monitor (fast, via `mss`).
